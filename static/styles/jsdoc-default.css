@@ -947,7 +947,18 @@ input.search-input:focus {
   opacity: .5;
 }
 
+
 .name-container {
   display: flex;
   padding-top: 3em;
+}
+
+.route-description {
+	background:#fafafa;
+	padding:10px;
+	border:1px solid #ddd;
+	border-radius:3px;
+}
+.route-description small { 
+	display: block;
 }
